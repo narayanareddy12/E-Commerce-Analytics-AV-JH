@@ -12,6 +12,7 @@ It is quite useful to understand the demand, habits, concern, perception, and in
 However, the genders of users are in general unavailable in e-commerce platforms. To address this gap the aim here is to predict the gender of e-commerce’s participants from their product viewing records.
 
 **Evaluation Metric:**
+
 Submissions are evaluated on accuracy between the predicted and observed gender for the sessions in the test set.
 
 https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/#ProblemStatement
